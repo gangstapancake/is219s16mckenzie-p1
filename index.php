@@ -143,18 +143,50 @@
                 <div class="col-lg-12 text-center">
                     <h2>DATAMATICS MANAGEMENT SERVICES INC., Fords, NJ</h2>
                     <p class="lead">Systems Implementation Specialist, 05/2013-Present</p>
+					<p> Answers, evaluates, and prioritizes incoming telephone calls, voicemails, emails, and in-person requests for assistance from users experiencing problems with hardware, software, networking, and any other computer related technologies. 
+						 Interviews client user to collect information about a problem and leads user through diagnostic procedures to determine source of error. 
+						 Handles problem recognition, research, isolation, resolution, and follow-up for routine user problems, escalating more complex problems to the correct technical staff. 
+						 Management of backup systems/ procedures and disaster recovery plans.
+						 Configures and tests bio-metric and time clock hardware. 
+						 Network Management, including the installation, configuration, troubleshooting, maintenance, and support of the Internal Network Infrastructure. 
+						 Handles shipping, receiving, and tracking of hardware and or IT related inventory via UPS/ FedEx.
+						 Works with software development team in creating, testing, implementing, and maintaining various custom applications and programs. 
+						 Logging and tracking of calls and emails using Microsoft Dynamics CRM. 
+						 Calls hardware vendors to request service regarding defective products.
+						 Develops training support materials such as documents, exercises, and visual displays. 
+						 Trains end users/ administrators on software and or hardware on-site or via the web. 
+						 Writes or revises software/ hardware training documents and procedures for management review. 
+						 Develop small programs in C#.  Run queries in Microsoft SQL 2012. 
+						 Analyzes and evaluates incident reports and makes written recommendations to reduce help line incident rate. 
+						 Consults with technical staff to explain software errors or to recommend changes to programs. 
+						 Asset management of IT/Network infrastructure inventory and hardware.</p>
                 </div>
             </div>
 			<div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>QDX PATH ALLIANCE,   Cranford, NJ</h2>
+                    <h2>QDX PATH ALLIANCE, Cranford, NJ</h2>
                     <p class="lead">IT Support Specialist, 04/2011 to 11/2011 </p>
+					<p> Direct technical support for medium sized company with 125+ employees. 
+						 Managed, updated, and backed up Inventory via software.  
+						 Proficient in laboratory software: LabDaQ, LIS.  
+						 Responsible for software updates, upgrades, backups, and maintenance of servers and network. 
+						 Created and updated existing IT related policies and SOPs.  
+						 Supervised and trained data entry personnel and data entry procedures. 
+						 Assisted as part of a team in creating HL7 interfaces for new machines and EMR systems. 
+						 Established remote connections to external client computers using Remote Desktop & LOGMEIN for troubleshooting, updating, support and maintenance. 
+						 Provided professional help desk technical support for numerous clients.
+						 Responsible for shipping, tracking, and receiving via FedEx and UPS.</p>
                 </div>
             </div>
 			<div class="row">
                 <div class="col-lg-12 text-center">
                     <h2>FLEXTRONICS, Woodbridge, NJ</h2>
                     <p class="lead">Device Specialist, Customer Support Technician, 02/2008 to 03/2011 </p>
+					<p> Face to face programming, troubleshooting, repair, support, updating, and maintenance of IPhones, Androids, Blackberries, Windows Mobile devices, PDAs, phones, and tablets. 
+						 Diffused customer escalations to ensure efficient and effective customer service.  
+						 Responsible for opening and closing procedure of the technical service department. 
+						 Selected to assist in the training of 13 new employees; recognized for world class experience to customers; earning 3 service awards. 
+						 Responsible for answering technical support calls via telephone</p>
                 </div>
             </div>
             <!-- /.row -->
