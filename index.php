@@ -131,11 +131,37 @@
     </section>
 
     <!-- Callout -->
-    <aside class="callout">
+   <!-- <aside class="callout">
         <div class="text-vertical-center">
             <h1></h1>
         </div>
-    </aside>
+    </aside> -->
+	 <!-- About -->
+    <section id="about" class="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>DATAMATICS MANAGEMENT SERVICES INC., Fords, NJ</h2>
+                    <p class="lead">Systems Implementation Specialist, 05/2013-Present</p>
+                </div>
+            </div>
+			<div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>QDX PATH ALLIANCE,   Cranford, NJ</h2>
+                    <p class="lead">IT Support Specialist, 04/2011 to 11/2011 </p>
+                </div>
+            </div>
+			<div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>FLEXTRONICS, Woodbridge, NJ</h2>
+                    <p class="lead">Device Specialist, Customer Support Technician, 02/2008 to 03/2011 </p>
+                </div>
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.container -->
+    </section>
+
 
     <!-- Portfolio -->
     <section id="portfolio" class="portfolio">
