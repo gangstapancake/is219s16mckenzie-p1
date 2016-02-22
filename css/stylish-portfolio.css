@@ -182,7 +182,7 @@ hr.small {
 
 .callout {
     display: table;
-    width: 100%;
+    width: 50%;
     height: 400px;
     color: #fff;
     background: url(../img/njit_logo.gif) no-repeat center center scroll;
