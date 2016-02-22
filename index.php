@@ -193,7 +193,19 @@
         </div>
         <!-- /.container -->
     </section>
-
+	
+    <!-- Call to Action -->
+    <aside class="call-to-action bg-primary">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h3>Education Links</h3>
+                    <a href="www.njit.edu"  target="_Blank" class="btn btn-lg btn-dark">New Jersey Institute of Technology</a>
+                    <a href="http://www.middlesexcc.edu/" target="_Blank" class="btn btn-lg btn-dark">Middlesex County College</a>
+                </div>
+            </div>
+        </div>
+    </aside>
 
     <!-- Portfolio -->
     <section id="portfolio" class="portfolio">
@@ -242,19 +254,6 @@
         <!-- /.container -->
     </section>
 
-    <!-- Call to Action -->
-    <aside class="call-to-action bg-primary">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h3>Education Links</h3>
-                    <a href="www.njit.edu"  target="_Blank" class="btn btn-lg btn-dark">New Jersey Institute of Technology</a>
-                    <a href="http://www.middlesexcc.edu/" target="_Blank" class="btn btn-lg btn-dark">Middlesex County College</a>
-                </div>
-            </div>
-        </div>
-    </aside>
-
     <!-- Map -->
     <!-- <section id="contact" class="map">
          <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/place/New+Jersey+Institute+of+Technology/@40.7431473,-74.1783086,15z/data=!4m2!3m1!1s0x0:0xb97c287a2ef95f43"></iframe>
@@ -272,7 +271,7 @@
                 <div class="col-lg-10 col-lg-offset-1 text-center">
                     <h4><strong>Dominic L. McKenzie</strong>
                     </h4>
-                    <p>NJIT<br>150 Bleeker St, Newark, NJ 07102</p>
+                    <p><img class="img-portfolio img-responsive" src="img/njit_logo.jpg"><br>150 Bleeker St, Newark, NJ 07102</p>
                     <ul class="list-unstyled">
                         <li><i class="fa fa-phone fa-fw"></i> </li>
                         <li><i class="fa fa-envelope-o fa-fw"></i>  <a href="mailto:name@example.com">dlm24@njit.edu</a>
