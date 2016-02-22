@@ -198,14 +198,14 @@
     </aside>
 
     <!-- Map -->
-    <section id="contact" class="map">
+    <!-- <section id="contact" class="map">
          <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/place/New+Jersey+Institute+of+Technology/@40.7431473,-74.1783086,15z/data=!4m2!3m1!1s0x0:0xb97c287a2ef95f43"></iframe>
         <br />
         <small>
             <a href="https://www.google.com/maps/place/New+Jersey+Institute+of+Technology/@40.7431473,-74.1783086,15z/data=!4m2!3m1!1s0x0:0xb97c287a2ef95f43"></a>
         </small>
         </iframe>
-    </section>
+    </section> -->
 
     <!-- Footer -->
     <footer>
