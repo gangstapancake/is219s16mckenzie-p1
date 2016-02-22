@@ -206,7 +206,19 @@
             </div>
         </div>
     </aside>
-
+<section id="about" class="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Development Technical Skills</h2>
+                    <p class="lead">JavaScript - jQuery - node.js - mySQL - PHP - SQL - C#.Net - HTML5 - CSS - JAVA - Visual Basic</p>
+                </div>
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.container -->
+    </section>
+	
     <!-- Portfolio -->
     <section id="portfolio" class="portfolio">
         <div class="container">
@@ -271,7 +283,7 @@
                 <div class="col-lg-10 col-lg-offset-1 text-center">
                     <h4><strong>Dominic L. McKenzie</strong>
                     </h4>
-                    <p><img class="img-portfolio img-responsive" src="img/njit_logo.jpg"><br>150 Bleeker St, Newark, NJ 07102</p>
+                    <p><img class="img-portfolio img-responsive" src="img/njit_logo.gif"><br>150 Bleeker St, Newark, NJ 07102</p>
                     <ul class="list-unstyled">
                         <li><i class="fa fa-phone fa-fw"></i> </li>
                         <li><i class="fa fa-envelope-o fa-fw"></i>  <a href="mailto:name@example.com">dlm24@njit.edu</a>
