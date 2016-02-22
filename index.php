@@ -60,12 +60,12 @@
 
     <!-- Header -->
     <header id="top" class="header">
-		<div class="linkedin">
+		
+        <div class="text-vertical-center">
+            <h1><div class="linkedin">
 			<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
 			<script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/mckenziedominic" data-format="inline"></script>
-		</div>
-        <div class="text-vertical-center">
-            <h1>Dominic L McKenzie</h1>
+		</div></h1>
             <h3>Network Administrator - Web Developer</h3>
             <br>
             <a href="#about" class="btn btn-dark btn-lg">Find Out More</a>
@@ -148,13 +148,6 @@
                         <div class="col-md-6">
                             <div class="portfolio-item">
                                 <a href="#">
-                                    <img class="img-portfolio img-responsive" src="img/mta.pdf">
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="portfolio-item">
-                                <a href="#">
                                     <img class="img-portfolio img-responsive" src="img/netplus.jpg">
                                 </a>
                             </div>
@@ -162,17 +155,24 @@
                         <div class="col-md-6">
                             <div class="portfolio-item">
                                 <a href="#">
-                                    <img class="img-portfolio img-responsive" src="img/portfolio-3.jpg">
+                                    <img class="img-portfolio img-responsive" src="img/mcp.jpg">
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="portfolio-item">
                                 <a href="#">
-                                    <img class="img-portfolio img-responsive" src="img/portfolio-4.jpg">
+                                    <img class="img-portfolio img-responsive" src="img/mtablack.png">
                                 </a>
                             </div>
                         </div>
+                        <!-- <div class="col-md-6">
+                            <div class="portfolio-item">
+                                <a href="#">
+                                    <img class="img-portfolio img-responsive" src="img/portfolio-4.jpg">
+                                </a>
+                            </div>
+                        </div> -->
                     </div>
                     <!-- /.row (nested) -->
                     <a href="#" class="btn btn-dark">View More Items</a>
@@ -190,8 +190,8 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h3>Links</h3>
-                    <a href="www.njit.edu" class="btn btn-lg btn-light">NJIT</a>
-                    <a href="http://www.middlesexcc.edu/" class="btn btn-lg btn-dark">Middlesex County College</a>
+                    <a href="www.njit.edu"  target="_Blank" class="btn btn-lg btn-light">New Jersey Institute of Technology</a>
+                    <a href="http://www.middlesexcc.edu/" target="_Blank" class="btn btn-lg btn-dark">Middlesex County College</a>
                 </div>
             </div>
         </div>
@@ -199,11 +199,11 @@
 
     <!-- Map -->
     <section id="contact" class="map">
-        <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
+        <iframe width="75%" height="75%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/place/Carteret,+NJ/@40.5812916,-74.2654484,13z/data=!3m1!4b1!4m6!1m3!3m2!1s0x0:0x57f62e0bb1120ca4!2sWoodbridge+Center!3m1!1s0x89c3b4af9056eb55:0xe50975af8e6892a3"></a>
+        </small>"></iframe>
         <br />
         <small>
-            <a href="https://www.google.com/maps/place/Carteret,+NJ/@40.5812916,-74.2654484,13z/data=!3m1!4b1!4m6!1m3!3m2!1s0x0:0x57f62e0bb1120ca4!2sWoodbridge+Center!3m1!1s0x89c3b4af9056eb55:0xe50975af8e6892a3"></a>
-        </small>
+            <a href=""></a>
         </iframe>
     </section>
 
@@ -222,7 +222,7 @@
                     </ul>
                     <br>
                     <ul class="list-inline">
-                        <li>
+                     <!--   <li>
                             <a href="#"><i class="fa fa-facebook fa-fw fa-3x"></i></a>
                         </li>
                         <li>
@@ -230,7 +230,7 @@
                         </li>
                         <li>
                             <a href="#"><i class="fa fa-dribbble fa-fw fa-3x"></i></a>
-                        </li>
+                        </li> -->
                     </ul>
                     <hr class="small">
                     <p class="text-muted">Copyright &copy; is219s16mckenzie-p1.herokuapp.com 2016</p>
