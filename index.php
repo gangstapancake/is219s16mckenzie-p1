@@ -155,14 +155,14 @@
                         <div class="col-md-6">
                             <div class="portfolio-item">
                                 <a href="#">
-                                    <img class="img-portfolio img-responsive" src="img/mcp.jpg">
+                                    <img class="img-portfolio img-responsive" src="img/mtablack.png">
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="portfolio-item">
                                 <a href="#">
-                                    <img class="img-portfolio img-responsive" src="img/mtablack.png">
+                                    <img class="img-portfolio img-responsive" src="img/mcp.jpg">
                                 </a>
                             </div>
                         </div>
@@ -174,8 +174,8 @@
                             </div>
                         </div> -->
                     </div>
-                    <!-- /.row (nested) -->
-                    <a href="#" class="btn btn-dark">View More Items</a>
+                    <!-- /.row (nested) 
+                    <a href="#" class="btn btn-dark">View More Items</a> -->
                 </div>
                 <!-- /.col-lg-10 -->
             </div>
@@ -189,7 +189,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h3>Links</h3>
+                    <h3>Education Links</h3>
                     <a href="www.njit.edu"  target="_Blank" class="btn btn-lg btn-light">New Jersey Institute of Technology</a>
                     <a href="http://www.middlesexcc.edu/" target="_Blank" class="btn btn-lg btn-dark">Middlesex County College</a>
                 </div>
@@ -199,11 +199,11 @@
 
     <!-- Map -->
     <section id="contact" class="map">
-        <iframe width="75%" height="75%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/place/Carteret,+NJ/@40.5812916,-74.2654484,13z/data=!3m1!4b1!4m6!1m3!3m2!1s0x0:0x57f62e0bb1120ca4!2sWoodbridge+Center!3m1!1s0x89c3b4af9056eb55:0xe50975af8e6892a3"></a>
-        </small>"></iframe>
+         <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/place/Carteret,+NJ/@40.5902311,-74.241813,13.75z/data=!4m2!3m1!1s0x89c3b4af9056eb55:0xe50975af8e6892a3"></iframe>
         <br />
         <small>
-            <a href=""></a>
+            <a href="https://www.google.com/maps/place/Carteret,+NJ/@40.5902311,-74.241813,13.75z/data=!4m2!3m1!1s0x89c3b4af9056eb55:0xe50975af8e6892a3"></a>
+        </small>
         </iframe>
     </section>
 
