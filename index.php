@@ -283,13 +283,12 @@
                 <div class="col-lg-10 col-lg-offset-1 text-center">
                     <h4><strong>Dominic L. McKenzie</strong>
                     </h4>
-                    <p><img class="img-portfolio img-responsive" src="img/njit_logo.gif"><br>150 Bleeker St, Newark, NJ 07102</p>
+                    <p>150 Bleeker St, Newark, NJ 07102</p>
                     <ul class="list-unstyled">
-                        <li><i class="fa fa-phone fa-fw"></i> </li>
-                        <li><i class="fa fa-envelope-o fa-fw"></i>  <a href="mailto:name@example.com">dlm24@njit.edu</a>
+                        <li><i class="fa fa-envelope-o fa-fw"></i>  <a href="mailto:name@example.com">dlm24@njit.edu</a><br>
                         </li>
                     </ul>
-                    <br>
+                    <br> <img class="img-portfolio img-responsive" src="img/njit_logo.gif"><br>
                     <ul class="list-inline">
                      <!--   <li>
                             <a href="#"><i class="fa fa-facebook fa-fw fa-3x"></i></a>
