@@ -60,6 +60,10 @@
 
     <!-- Header -->
     <header id="top" class="header">
+		<div class="linkedin">
+			<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+			<script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/mckenziedominic" data-format="inline"></script>
+		</div>
         <div class="text-vertical-center">
             <h1>Dominic L McKenzie</h1>
             <h3>Network Administrator - Web Developer</h3>
@@ -185,9 +189,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h3>The buttons below are impossible to resist.</h3>
-                    <a href="#" class="btn btn-lg btn-light">Click Me!</a>
-                    <a href="#" class="btn btn-lg btn-dark">Look at Me!</a>
+                    <h3>Links</h3>
+                    <a href="www.njit.edu" class="btn btn-lg btn-light">NJIT</a>
+                    <a href="http://www.middlesexcc.edu/" class="btn btn-lg btn-dark">Middlesex County College</a>
                 </div>
             </div>
         </div>
@@ -198,7 +202,7 @@
         <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
         <br />
         <small>
-            <a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A"></a>
+            <a href="https://www.google.com/maps/place/Carteret,+NJ/@40.5812916,-74.2654484,13z/data=!3m1!4b1!4m6!1m3!3m2!1s0x0:0x57f62e0bb1120ca4!2sWoodbridge+Center!3m1!1s0x89c3b4af9056eb55:0xe50975af8e6892a3"></a>
         </small>
         </iframe>
     </section>
@@ -208,12 +212,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1 text-center">
-                    <h4><strong>Start Bootstrap</strong>
+                    <h4><strong>Dominic L. McKenzie</strong>
                     </h4>
-                    <p>3481 Melrose Place<br>Beverly Hills, CA 90210</p>
+                    <p>NJIT<br>150 Bleeker St, Newark, NJ 07102</p>
                     <ul class="list-unstyled">
-                        <li><i class="fa fa-phone fa-fw"></i> (123) 456-7890</li>
-                        <li><i class="fa fa-envelope-o fa-fw"></i>  <a href="mailto:name@example.com">name@example.com</a>
+                        <li><i class="fa fa-phone fa-fw"></i> </li>
+                        <li><i class="fa fa-envelope-o fa-fw"></i>  <a href="mailto:name@example.com">dlm24@njit.edu</a>
                         </li>
                     </ul>
                     <br>
@@ -229,7 +233,7 @@
                         </li>
                     </ul>
                     <hr class="small">
-                    <p class="text-muted">Copyright &copy; Your Website 2014</p>
+                    <p class="text-muted">Copyright &copy; is219s16mckenzie-p1.herokuapp.com 2016</p>
                 </div>
             </div>
         </div>
