@@ -213,8 +213,14 @@
                     <h2>Development Technical Skills</h2>
                     <p class="lead">JavaScript - jQuery - node.js - mySQL - PHP - SQL - C#.Net - HTML5 - CSS - JAVA - Visual Basic</p>
                 </div>
-            </div>
+            </div>  
             <!-- /.row -->
+			<div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Networking Technical Skills</h2>
+                    <p class="lead">TCP/IP - LAN - WLAN - VPN - DNS - DHCP - DMZ - VLAN - WAN - FTP - SSH - RDP<br> Virtual Servers/Desktops; Hyper V, Virtualbox;</p>
+                </div>
+            </div>
         </div>
         <!-- /.container -->
     </section>
