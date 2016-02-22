@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Dominic McKenzie - Home Page</title>
+    <title>Dominic LMcKenzie</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -66,9 +66,9 @@
 			<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
 			<script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/mckenziedominic" data-format="inline"></script>
 		</div></h1>
-            <h3>Network Administrator - Web Developer</h3>
+           <!-- <h3>Network Administrator - Web Developer</h3> 
             <br>
-            <a href="#about" class="btn btn-dark btn-lg">Find Out More</a>
+            <a href="#about" class="btn btn-dark btn-lg">Find Out More</a> --> 
         </div>
     </header>
 
