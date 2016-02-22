@@ -95,7 +95,7 @@
                     <h2>Education</h2>
                     <hr class="small">
                     <div class="row">
-                        <div class="col-md-3 col-sm-6">
+                        <div class="col-md-6 col-sm-6">
                             <div class="service-item">
                                 <span class="fa-stack fa-4x">
                                 <i class="fa fa-circle fa-stack-2x"></i>
@@ -108,7 +108,7 @@
                                 <a href="#" class="btn btn-light">Learn More</a>
                             </div>
                         </div>
-                        <div class="col-md-3 col-sm-6">
+                        <div class="col-md-6 col-sm-6">
                             <div class="service-item">
                                 <span class="fa-stack fa-4x">
                                 <i class="fa fa-circle fa-stack-2x"></i>
@@ -145,21 +145,21 @@
                     <h2>Certifications</h2>
                     <hr class="small">
                     <div class="row">
-                        <div class="col-md-6">
+                        <div class="col-md-4">
                             <div class="portfolio-item">
                                 <a href="#">
                                     <img class="img-portfolio img-responsive" src="img/netplus.jpg">
                                 </a>
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-4">
                             <div class="portfolio-item">
                                 <a href="#">
                                     <img class="img-portfolio img-responsive" src="img/mtablack.png">
                                 </a>
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-4">
                             <div class="portfolio-item">
                                 <a href="#">
                                     <img class="img-portfolio img-responsive" src="img/mcp.jpg">

@@ -154,7 +154,7 @@ hr.small {
     display: table;
     position: relative;
     width: 100%;
-    height: 90%;
+    height: 85%;
     background: url(../img/school.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -182,7 +182,7 @@ hr.small {
 
 .callout {
     display: table;
-    width: 50%;
+    width: 100%;
     height: 400px;
     color: #fff;
     background: url(../img/njit_logo.gif) no-repeat center center scroll;
