@@ -293,7 +293,7 @@
                     <ul class="list-unstyled">
                         <li><i class="fa fa-envelope-o fa-fw"></i>  <a href="mailto:name@example.com">dlm24@njit.edu</a><br>
                         </li>
-                        <li><a href="www.mckenzieitinnovations.com" target="_Blank">My Personal Site</a><br>
+                        <li><a href="http:\\www.mckenzieitinnovations.com" target="_Blank">My Personal Site</a><br>
                         </li>
                     </ul>
                     <br> <img class="img-portfolio img-responsive" src="img/njit_logo.gif"><br>
